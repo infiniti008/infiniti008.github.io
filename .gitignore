@@ -1,4 +1,3 @@
-.idea
 node_modules
-*.bundle.js
-*.log
+tamplateMessage.txt
+package.json
